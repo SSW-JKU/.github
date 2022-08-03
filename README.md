@@ -1,1 +1,2 @@
-# .github
+- 👋 Hi, we are @SSW-JKU, the Institute for System Software (SSW) at the Johannes Kepler University (JKU) in Linz, Austria.
+- 📫 Find out more about us at [our website](https://ssw.jku.at/)
